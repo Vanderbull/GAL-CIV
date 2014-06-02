@@ -1,0 +1,147 @@
+technology development table
+----------------------------
+1. level 1 - 50 load names of technologies
+
+
+weapon table
+------------
+1. level 1 - 50 load all the weapons
+
+
+
+
+
+Hyper-X Missiles
+
+Scatter Pack V Rockets
+Merculite Missiles
+Stinger Missiles
+Anti-Matter Torpedoes
+Scatter Pack VII Missiles
+Pulson Missile
+Hercular Missiles
+Hellfire Torpedoes
+Zeon Missiles
+Proton Torpedoes
+Scatter Pack X Missiles
+Plasma Torpedoes
+
+4
+7
+11
+14
+18
+23
+27
+29
+34
+40
+41
+43
+44
+50
+
+6
+8
+6
+10
+15
+30
+10
+20
+25
+25
+30
+60
+15
+150
+7
+9
+12
+18
+13
+19
+30
+28
+20
+26
+50
+30
+50
+30
+150
+50
+70
+100
+115
+105
+155
+75
+170
+160
+220
+150
+250
+100
+250
+150
+20
+20
+20
+50
+20
+30
+300
+50
+40
+40
+350
+50
+400
+50
+450
+0
+0
++1
+0
++2
++3
++4
++2
++4
++5
++6
++6
++6
++3
++7
+2
+2.5
+2.5
+2.5
+3
+3.5
+4
+3
+4
+4.5
+5
+5
+8
+3.5
+6
+4
+5
+4
+5
+6
+7
+8
+6
+8
+9
+10
+10
+10
+7
+10

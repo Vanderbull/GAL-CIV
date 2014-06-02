@@ -1,0 +1,15 @@
+save
+# Mouse Coordinates
+891
+895
+# Stardate
+2300
+#DIFFICULTY
+0
+#SOUND
+3
+#MUSIC
+5
+#RESOLUTION wxh
+1920
+1080
